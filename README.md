@@ -67,9 +67,9 @@ For connecting cells in series and parallel configurations.
     <br>
     
 - **Protection Circuits**:
-  <p align = "center">
+<p align = "center">
 <img width="187" alt="336996143-5b5ae380-5576-49c9-be7e-bcdd40512be5" src="https://github.com/user-attachments/assets/b3838e42-d21e-40f7-b3d4-b0c0eebe6820" />
-  </p>
+</p>
   <br>
   Optional fuses or circuit breakers for added safety.
 
